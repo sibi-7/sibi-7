@@ -4,7 +4,7 @@ Full-Stack Developer
 - 🌱 I’m currently learning DSA
 - 👯 I’m looking to collaborate on web development 
 - 💬 Ask me about Tech
-- 📫 How to reach me :
+- 📫 How to reach me : sibi772001@gmail.com
 - 😄 Pronouns: Techie
 - ⚡ Fun fact: I know Wheelie.
 ### I code in
